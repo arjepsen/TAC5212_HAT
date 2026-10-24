@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Audio_HAT_Custom")(type "KiCad")(uri "${KIPRJMOD}/Audio_HAT_Custom.pretty")(options "")(descr "TAC5212 adjusted stencil apertures"))
+  (lib (name "AudioHAT_Wire")(type "KiCad")(uri "${KIPRJMOD}/AudioHAT_Wire.pretty")(options "")(descr "Wire solder pad footprint library"))
+)
